@@ -9,7 +9,7 @@ That project is a web resource for some
 Clone the project
 
 ```bash
-  git clone https://github.com/Carisky/Project
+  git clone https://github.com/Carisky/MarketplaceProject
 ```
 Install dependencies in /backend dir
 ```bash
